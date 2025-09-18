@@ -44,3 +44,8 @@ tr:nth-child(even) {
   <tr>
     <td>A3</td>
     <td>Trần Quang Trưởng</td>
+<td>F.3</td>
+  </tr>
+</table>
+</body>
+</html>
