@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -21,7 +22,7 @@
   
     ul.menu {
       list-style: none;
-      background-color: #333;
+      background-color: black;
       padding: 10px;
       text-align: center;
     }
@@ -41,7 +42,7 @@
     }
 
     ul.menu li a:hover {
-      background-color: #555;
+      background-color: cyan;
     }
 
  
@@ -60,7 +61,7 @@
 
     .info-box span {
       font-weight: bold;
-      color: #333;
+      color: black;
     }
 
     
@@ -72,13 +73,13 @@
     }
 
     th, td {
-      border: 1px solid #ccc;
+      border: 1px solid  ;
       padding: 10px;
       text-align: center;
     }
 
     th {
-      background-color: #4CAF50;
+      background-color: green;
       color: white;
     }
 
@@ -91,7 +92,7 @@
       position: absolute;
       top: 80px;
       right: 20px;
-      background-color: #ffeb3b;
+      background-color: yellow;
       padding: 15px;
       
       z-index: 1;
@@ -102,7 +103,7 @@
       position: absolute;
       top: 160px;
       right: 40px;
-      background-color: #b3e5fc;
+      background-color: cyan;
       padding: 15px;
      
      
