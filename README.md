@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -56,7 +55,7 @@
       border-radius: 10px;
       padding: 15px 20px;
       margin-right: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      
     }
 
     .info-box span {
@@ -94,21 +93,20 @@
       right: 20px;
       background-color: #ffeb3b;
       padding: 15px;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-      z-index: 1; /* thử thay đổi để kiểm tra */
+      
+      z-index: 1;
     }
 
-    /* ======= KHỐI Z-INDEX ======= */
+   
     .support {
       position: absolute;
       top: 160px;
       right: 40px;
       background-color: #b3e5fc;
       padding: 15px;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-      z-index: 0; /* thử đổi giữa 0 và 2 để thấy sự khác biệt */
+     
+     
+      z-index: 0;
     }
   </style>
 </head>
